@@ -76,6 +76,9 @@ span {
   text-align: center;
   padding: 1rem 0 1rem 0;
 }
+.spanish {
+  font-size:1.1rem;
+}
 .nav-toggle {
   margin: 0.5rem 0 0.5rem 1rem;
   font-size: 1.5rem;
